@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/ishar06/ishar06/blob/main/profile-banner.png" alt="Ishardeep Singh Banner" />
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Ishardeep Singh</h1>
