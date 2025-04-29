@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/ishar06/ishar06/blob/main/profile-banner.png" alt="Ishardeep Singh Banner" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Ishardeep Singh</h1>
 <h3 align="center">💻 CSE-AI Undergraduate | Full-Stack & AI Developer | Hackathon Finalist | Open to Internships</h3>
 
@@ -37,9 +42,7 @@
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/null/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-color-tal-revivo.png"/>
   <img src="https://img.icons8.com/ios/40/cloudflare.png"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
-  <img src="https://numpy.org/images/logos/numpy.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/MediaPipe_logo.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Pygame_logo.gif" width="40"/>
+  
 </p>
 
 ---
@@ -70,12 +73,12 @@
 
 ### 🔥 Projects (Impactful & Recruiter-Focused)
 
-- 🎮 **[PopShot](https://github.com/ishar06/PopShot)** – Computer Vision game using hand-tracking with MediaPipe & OpenCV
-- 🛒 **[Sportify](https://github.com/ishar06/Sportify_EcommerceWebsite)** – Full-stack e-commerce site using Flask + Django + SQLite
-- 🧠 **[AegisFem](https://github.com/ishar06)** – AI-driven women’s safety app with threat detection & real-time support
-- 📘 **[MyDiary](https://github.com/ishar06)** – Mood-aware diary with search, text formatting & mood analytics
-- 🇮🇳 **[Sanskriti Seekers](https://github.com/ishar06)** – Interactive Indian cultural heritage website (Smart India Hackathon Entry)
-- 🪔 **[Tribute Page](https://github.com/ishar06/Tributepage)** – Dynamic webpage on Bhagat Singh
+- 🎮 **[PopShot](https://github.com/ishar06/PopShot)** – Real-time computer vision game using hand-tracking (OpenCV + MediaPipe)
+- 🛒 **[Sportify](https://github.com/ishar06/Sportify_EcommerceWebsite)** – Full-stack e-commerce platform built with Flask, Django, SQLite & Bootstrap
+- 📜 **[Tribute Page](https://github.com/ishar06/Tributepage)** – Responsive webpage tribute to Bhagat Singh (HTML, CSS, Bootstrap)
+- ❌⭕ **[Infinite TicTacToe](https://github.com/ishar06)** – Web-based interactive game with dynamic scoring and mobile-first design
+- 🛍️ **[Replications](https://github.com/ishar06/Replications)** – UI/UX replications of Mi Store, Meesho, Etsy, and more to enhance frontend skills  
+- ➕ *...and many more real-world projects...*
 
 ---
 
@@ -90,10 +93,13 @@
 
 ### 🏅 Achievements
 
-- 🏆 Hackathon Finalist: Build With India (Google), Hack With Her 4.0 (IEEE)
-- 💡 Leader in 6+ collaborative tech projects with focus on AI, UX, and social impact
-- 🥇 College tech-fest winner in coding, pitching, and innovation challenges
-- 🎤 Delivered pitches and tech presentations in major events
+- 🎯 Participated in **10+ hackathons and tech events** including:
+  - **Build With India (Google)** – *Semi-Finalist (Top 5,000 out of 25,000+ teams)*
+  - **Hack With Her 4.0 (IEEE)** – *Semi-Finalist among 2,700+ participants*
+  - **AI Create 3.0** – Focused on design thinking + AI-based innovation
+- 🔧 Team lead for impactful projects: **Sportify**, **AegisFem**, **Sanskriti Seekers**, **Tribute Page**
+- 🗣 Presented ideas and demos at multiple inter-college tech events
+- 🧠 Constant learner and open-source contributor with real deployment-focused builds
 
 ---
 
