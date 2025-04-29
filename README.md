@@ -71,7 +71,7 @@
 
 ---
 
-### 🔥 Projects (Impactful & Recruiter-Focused)
+### 🔥 Projects 
 
 - 🎮 **[PopShot](https://github.com/ishar06/PopShot)** – Real-time computer vision game using hand-tracking (OpenCV + MediaPipe)
 - 🛒 **[Sportify](https://github.com/ishar06/Sportify_EcommerceWebsite)** – Full-stack e-commerce platform built with Flask, Django, SQLite & Bootstrap
