@@ -76,7 +76,7 @@
 - 🎮 **[PopShot](https://github.com/ishar06/PopShot)** – Real-time computer vision game using hand-tracking (OpenCV + MediaPipe)
 - 🛒 **[Sportify](https://github.com/ishar06/Sportify_EcommerceWebsite)** – Full-stack e-commerce platform built with Flask, Django, SQLite & Bootstrap
 - 📜 **[Tribute Page](https://github.com/ishar06/Tributepage)** – Responsive webpage tribute to Bhagat Singh (HTML, CSS, Bootstrap)
-- ❌⭕ **[Infinite TicTacToe](https://github.com/ishar06)** – Web-based interactive game with dynamic scoring and mobile-first design
+- ❌⭕ **[Infinite TicTacToe](https://github.com/ishar06/TicTacToe)** – Web-based interactive game with dynamic scoring and mobile-first design
 - 🛍️ **[Replications](https://github.com/ishar06/Replications)** – UI/UX replications of Mi Store, Meesho, Etsy, and more to enhance frontend skills  
 - ➕ *...and many more real-world projects...*
 
@@ -95,7 +95,7 @@
 
 - 🎯 Participated in **10+ hackathons and tech events** including:
   - **Build With India (Google)** – *Semi-Finalist (Top 5,000 out of 25,000+ teams)*
-  - **Hack With Her 4.0 (IEEE)** – *Semi-Finalist among 2,700+ participants*
+  - **Hack With Her 4.0 (IEEE)** – *Semi-Finalist among 1,000+ participants*
   - **AI Create 3.0** – Focused on design thinking + AI-based innovation
 - 🔧 Team lead for impactful projects: **Sportify**, **AegisFem**, **Sanskriti Seekers**, **Tribute Page**
 - 🗣 Presented ideas and demos at multiple inter-college tech events
