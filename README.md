@@ -108,7 +108,7 @@
 - 📧 Email: [singhishardeep06@gmail.com](mailto:singhishardeep06@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/ishardeep-singh-743789311](https://www.linkedin.com/in/ishardeep-singh-743789311)
 - 🌍 GitHub: [github.com/ishar06](https://github.com/ishar06)
-- 🪪 Resume: [Click here](https://drive.google.com/file/d/1FDTK9NtcmbrtbZIJ5GyoF5-Sogn_2GMM/view)
+- 🪪 Resume: [Click here](https://drive.google.com/file/d/1po4uWr4dNxJgwc0See9ZqO10V4kicWgy/view?usp=sharing)
 
 ---
 
