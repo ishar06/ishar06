@@ -44,6 +44,7 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" />
   <img src="https://img.icons8.com/fluency/40/microsoft-azure.png"/>
+
 </p>
 
 ---
