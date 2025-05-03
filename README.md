@@ -42,31 +42,46 @@
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/null/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-color-tal-revivo.png"/>
   <img src="https://img.icons8.com/ios/40/cloudflare.png"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
-  
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" />
+  <img src="https://img.icons8.com/fluency/40/microsoft-azure.png"/>
 </p>
 
 ---
 
 #### 👨‍💻 Programming Languages:
-- **Python** – Core language for AI/ML, backend, and scripting  
-- **C & C++** – Problem-solving, algorithmic thinking, and performance-based systems  
-- **JavaScript** – Dynamic frontend scripting  
+
+* **Python** – Core language for AI/ML, backend, and scripting
+* **C & C++** – Problem-solving, algorithmic thinking, and performance-based systems
+* **JavaScript** – Dynamic frontend scripting
 
 #### 🌐 Web Development:
-- **HTML5, CSS3** – Building structured and styled web pages  
-- **Bootstrap** – Responsive design with prebuilt UI components  
-- **Git & GitHub** – Version control and collaboration  
-- **Cloudflare** – DNS, CDN, and web performance (learning phase)
 
-#### 🧩 Frameworks:
-- **Flask & Django** – Full-stack web development and REST APIs  
-- **Firebase** – Real-time database and authentication (learning phase)  
+* **HTML5, CSS3** – Building structured and styled web pages
+* **Bootstrap** – Responsive design with prebuilt UI components
+* **Git & GitHub** – Version control and collaboration
+* **Cloudflare** – DNS, CDN, and web performance (learning phase)
+* **XHTML2PDF** – HTML to PDF document conversion (learning phase)
 
-#### 🧠 AI & Tools:
-- **OpenCV** – Real-time computer vision  
-- **MediaPipe** – Gesture tracking and hand detection  
-- **NumPy** – Numerical computing with arrays  
-- **Pygame** – 2D game development in Python  
+#### 🧩 Frameworks & Tools:
+
+* **Flask & Django** – Full-stack web development and REST APIs
+* **Firebase** – Real-time database and authentication (learning phase)
+* **Docker** – Containerization and deployment
+* **DBSQLite** – Lightweight database engine for small-scale apps
+
+#### ☁️ Microsoft Azure:
+
+* **Microsoft Azure (AZ-900 Certified)** – Basics of cloud services, solutions, and workloads
+* **Microsoft Azure AI Fundamentals** – Exploring AI,ML,NLP,Computer Vision
+
+#### 🧠 AI & Libraries:
+
+* **OpenCV** – Real-time computer vision
+* **MediaPipe** – Gesture tracking and hand detection
+* **NumPy** – Numerical computing with arrays
+* **Pygame** – 2D game development in Python
+* **Tesseract OCR** – Optical Character Recognition from images
+* **Ollama & LLaMA3** – Local LLMs for natural language generation and inference
 
 
 ---
