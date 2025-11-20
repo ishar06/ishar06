@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ishar06/ishar06/blob/main/profileBanner2.png" alt="Ishardeep Singh Banner" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Ishardeep Singh</h1>
 <h3 align="center">💻 CSE-AI Undergraduate | MERN Stack Developer | AI Engineer | Open to Internship Opportunities</h3>
 
@@ -14,35 +10,39 @@
 
 ---
 
-### 💼 About Me
+### 💼 About Me: The Builder & Innovator
 
-- 🎓 **Computer Science Engineering (AI Specialization)** @ Chitkara University (2024–2028), CGPA: **9.39**
-- 🚀 Passionate about building full-stack applications, scalable backends, and AI-powered solutions.
-- 🌐 **Microsoft Certified**: Azure Fundamentals (AZ-900), AI Fundamentals (AI-900), and Data Fundamentals (DP-900).
-- 🏆 Semi-Finalist at **Build With India (Top 5K/25K teams)** & **Hack With Her 4.0 (IEEE Semi-Finalist | Top 30/700+ teams)**.
-- 🤝 Actively seeking **internship opportunities** in MERN Stack, Data Analysis, or Software Engineering roles.
-- 🧠 A strong believer in continuous learning, with skills in Data Structures & Algorithms and system design.
+- 🎓 **Computer Science Engineering (AI Specialization)** @ Chitkara University (2024–2028), CGPA: **9.20**
+- 🚀 **Driven by impact**, I build end-to-end solutions, focusing on scalable backends, robust full-stack applications, and cutting-edge AI systems.
+- 🌐 **Microsoft Certified**: I hold foundational expertise in Azure (AZ-900), AI (AI-900), and Data (DP-900).
+- 🏆 A proven competitor: Semi-Finalist at **Build With India (Top 5K/25K teams)** & **Hack With Her 4.0 (IEEE Semi-Finalist | Top 30/700+ teams)**.
+- 🤝 Actively pursuing impactful **internship opportunities** in MERN Stack, Data Science, or Software Engineering roles.
+- 🧠 Committed to mastery in Data Structures & Algorithms and effective system design.
 
 ---
 
-### 📈 Experience
+### 📈 Professional & Leadership Experience
+
+- **ML OPs Head** @ **Open Source Chandigarh** (_Sep 2025 – Present_)
+    - Leading a team of enthusiasts dedicated to delivering scalable, working AI/ML-related solutions and streamlining DevOps pipelines.
 
 - **Software Development Intern (MERN Stack)** @ Immanent Solutions (_Jun 2025 – Jul 2025_)
-  - Developing and maintaining web applications using MongoDB, Express.js, React, and Node.js.
-  - Collaborating with a team to build scalable and efficient software solutions.
+    - Developed and maintained responsive web applications, leveraging the MERN stack for efficient and dynamic performance.
+    - Collaborated intensely with the team to build scalable and highly efficient software solutions.
 
 - **Internshala Student Partner** (_Jun 2025 – Jul 2025_)
-  - Promoted Internshala's platform and initiatives within the university campus.
-  - Mentored students on leveraging online resources for skill development and internships.
+    - Championed Internshala's platform and initiatives, significantly increasing campus engagement.
+    - Mentored peers on maximizing online learning resources for skill development and securing internships.
 
-- **Team Leader**
-  - Led and managed 10+ technical teams for hackathons and project development, fostering collaboration and ensuring timely delivery of high-quality projects.
+- **Technical Team Lead**
+    - Spearheaded and managed 10+ technical teams for competitive hackathons and complex project development.
+    - Ensured seamless collaboration and guaranteed the timely delivery of high-quality, high-impact technical projects.
 
 ---
 
 ### 🛠️ Skills & Technologies
 
-#### Tech Stack
+#### Core Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" title="React"/>
@@ -73,27 +73,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" title="Linux"/>
 </p>
 
-#### Detailed Skills
+#### Specialized Competencies
 
 - **Languages**: Python, C++, C, JavaScript, SQL
-- **Data Structures & Algorithms**: Proficient in fundamental concepts for problem-solving.
-- **Backend**: Node.js, Express, Django, Flask
-- **Frontend**: React (Learning), HTML5, CSS3, Bootstrap
-- **Databases**: MongoDB, MySQL, PostgreSQL, SQLite
-- **Data Analysis & Viz**: Pandas, NumPy, Matplotlib, Seaborn, Power BI
-- **Cloud & DevOps**: Microsoft Azure, AWS, Render, Git, Linux OS
-- **AI/ML**: OpenCV, MediaPipe, Tesseract OCR, Ollama
+- **Foundations**: Data Structures & Algorithms, System Design principles.
+- **Backend**: Node.js, Express, Django, Flask.
+- **Frontend**: React (Actively Learning), HTML5, CSS3, Bootstrap.
+- **Databases**: MongoDB, MySQL, PostgreSQL, SQLite.
+- **Data & AI/ML**: Pandas, NumPy, Matplotlib, Seaborn, Power BI, OpenCV, MediaPipe, Tesseract OCR, Ollama.
+- **Cloud & DevOps**: Microsoft Azure, AWS, Render, Git, Linux OS.
 
 ---
 
-### 🔥 Projects
+### 🔥 Impactful Projects
 
-- 📖 **[MyDiary](https://github.com/ishar06/MyDiary)** – A safe, secure, and private Django-based application to write and manage daily journals.
-- ✅ **[CheckInPlus](https://github.com/ishar06/CheckInPlus)** – An intuitive attendance and management system built to streamline tracking.
-- 🎮 **[PopShot](https://github.com/ishar06/PopShot)** – Real-time computer vision game using hand-tracking (OpenCV + MediaPipe).
-- 🛒 **[Sportify](https://github.com/ishar06/Sportify_EcommerceWebsite)** – Full-stack e-commerce platform built with Flask, Django, SQLite & Bootstrap.
-- ❌⭕ **[Infinite TicTacToe](https://github.com/ishar06/TicTacToe)** – Web-based interactive game with dynamic scoring and mobile-first design.
-- 📜 **[Tribute Page](https://github.com/ishar06/Tributepage)** – A responsive tribute to Bhagat Singh (HTML, CSS, Bootstrap).
+- 🏎️ **[FormulaFever](https://github.com/ishar06/FormulaFever)** – A dynamic web application leveraging AI/ML to predict F1 race outcomes and analyze driver performance.
+- 📖 **[MyDiary](https://github.com/ishar06/MyDiary)** – A safe, secure, and private Django-based application engineered for managing daily journals with focus on data integrity.
+- ✅ **[CheckInPlus](https://github.com/ishar06/CheckInPlus)** – An intuitive and reliable attendance and management system built to streamline tracking processes for organizations.
+- 🎮 **[PopShot](https://github.com/ishar06/PopShot)** – A real-time computer vision game utilizing advanced hand-tracking technology (OpenCV + MediaPipe).
+- 🛒 **[Sportify](https://github.com/ishar06/Sportify_EcommerceWebsite)** – A robust, full-stack e-commerce platform built with Flask, Django, SQLite & Bootstrap, demonstrating full transaction lifecycle management.
+- ❌⭕ **[Infinite TicTacToe](https://github.com/ishar06/TicTacToe)** – An engaging, web-based interactive game featuring dynamic scoring and a mobile-first design philosophy.
 
 ---
 
@@ -112,29 +111,29 @@
 
 ---
 
-### 🏅 Achievements
+### 🏅 Recognitions & Leadership
 
 - **Hackathons**:
-  - **Build With India (Google)** – *Semi-Finalist (Top 5,000 / 25,000+ teams)*
-  - **Hack With Her 4.0 (IEEE)** – *Semi-Finalist (Top 30 / 700+ teams)*
+    - **Build With India (Google)** – *Semi-Finalist (Top 5,000 / 25,000+ teams)*
+    - **Hack With Her 4.0 (IEEE)** – *Semi-Finalist (Top 30 / 700+ teams)*
 - **Certifications**:
-  - Microsoft Certified: Azure Fundamentals (AZ-900)
-  - Microsoft Certified: AI Fundamentals (AI-900)
-  - Microsoft Certified: Data Fundamentals (DP-900)
-- **Leadership**:
-  - Led 10+ technical teams in developing projects like **CheckInPlus**, **Sportify**, **FormEase** and many more...
+    - Microsoft Certified: Azure Fundamentals (AZ-900)
+    - Microsoft Certified: AI Fundamentals (AI-900)
+    - Microsoft Certified: Data Fundamentals (DP-900)
+- **Leadership & Mentorship**:
+    - Successfully led 10+ technical teams in architecting and delivering high-quality projects like **CheckInPlus**, **Sportify**, **FormEase**, and more, focusing on technical excellence and timely completion.
 
 ---
 
 ### 🎸 Hobbies & Interests
 
-- 🎤 **Singing & Guitar**: Passionate about music and enjoy playing the guitar in my free time.
-- 🤝 **Community Service**: Active volunteer with the National Service Scheme (NSS), contributing to social causes.
-- 🤓 **Puzzles & Strategy**: When I'm not coding, you’ll find me solving Rubik’s cubes, playing chess, or ideating the next big innovation.
+- 🎤 **Singing & Guitar**: I find balance and creativity through my passion for music, actively playing the guitar.
+- 🤝 **Community Service**: An active volunteer with the National Service Scheme (NSS), contributing time and skills to social causes.
+- 🤓 **Puzzles & Strategy**: My downtime is spent mastering the Rubik’s cube, competing in chess, or ideating on the next big tech innovation.
 
 ---
 
-### 📫 Contact & Links
+### 📫 Connect With Me
 
 - 📧 **Email**: [singhishardeep06@gmail.com](mailto:singhishardeep06@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/ishardeep-singh-743789311](https://www.linkedin.com/in/ishardeep-singh-743789311)
