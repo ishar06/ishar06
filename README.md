@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ishar06/ishar06/blob/main/profileBanner2.png" alt="Ishardeep Singh Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ishardeep Singh</h1>
 <h3 align="center">💻 CSE-AI Undergraduate | MERN Stack Developer | AI Engineer | Open to Internship Opportunities</h3>
 
