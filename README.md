@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://github.com/ishar06/ishar06/blob/main/profileBanner2.png" alt="Ishardeep Singh Banner" />
+  <img src="https://github.com/ishar06/ishar06/blob/main/profileBanner3.png" alt="Ishardeep Singh Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ishardeep Singh</h1>
-<h3 align="center">💻 CSE-AI Undergraduate | MERN Stack Developer | AI Engineer | Open to Internship Opportunities</h3>
+<h2 align="center">$$CSE$$ $$AIML$$ $$Undergraduate$$ $$·$$ $$Technical$$ $$Head,$$ $$MLOps$$ $$Open$$ $$Source$$ $$Chandigarh$$</h2>
 
 <p align="center">
   <a href="mailto:singhishardeep06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -12,142 +11,66 @@
   <a href="https://leetcode.com/u/Ishardeep/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
----
-
-### 💼 About Me: The Builder & Innovator
-
-- 🎓 **Computer Science Engineering (AI Specialization)** @ Chitkara University (2024–2028), CGPA: **9.20**
-- 🚀 **Driven by impact**, I build end-to-end solutions, focusing on scalable backends, robust full-stack applications, and cutting-edge AI systems.
-- 🌐 **Microsoft Certified**: I hold foundational expertise in Azure (AZ-900), AI (AI-900), and Data (DP-900).
-- 🏆 A proven competitor: Semi-Finalist at **Build With India (Top 5K/25K teams)** & **Hack With Her 4.0 (IEEE Semi-Finalist | Top 30/700+ teams)**.
-- 🤝 Actively pursuing impactful **internship opportunities** in MERN Stack, Data Science, or Software Engineering roles.
-- 🧠 Committed to mastery in Data Structures & Algorithms and effective system design.
+> Computer Science undergraduate specializing in AI & ML at Chitkara University. Curious about how systems work under the hood, whether that's a machine learning pipeline or a Rubik's Cube.
 
 ---
 
-### 📈 Professional & Leadership Experience
+### 🔭 Currently
 
-- **ML OPs Head** @ **Open Source Chandigarh** (_Sep 2025 – Present_)
-    - Leading a team of enthusiasts dedicated to delivering scalable, working AI/ML-related solutions and streamlining DevOps pipelines.
-
-- **Software Development Intern (MERN Stack)** @ Immanent Solutions (_Jun 2025 – Jul 2025_)
-    - Developed and maintained responsive web applications, leveraging the MERN stack for efficient and dynamic performance.
-    - Collaborated intensely with the team to build scalable and highly efficient software solutions.
-
-- **Internshala Student Partner** (_Jun 2025 – Jul 2025_)
-    - Championed Internshala's platform and initiatives, significantly increasing campus engagement.
-    - Mentored peers on maximizing online learning resources for skill development and securing internships.
-
-- **Technical Team Lead**
-    - Spearheaded and managed 10+ technical teams for competitive hackathons and complex project development.
-    - Ensured seamless collaboration and guaranteed the timely delivery of high-quality, high-impact technical projects.
+- Leading ML-Ops efforts at **Open Source Chandigarh** — integrating models into CI/CD pipelines and building deployment workflows for a 5+ contributor team.
+- Building foundational **iOS development** skills (Swift, moving into SwiftUI) at Chitkara's iOS App Development Centre.
+- Open to internship opportunities in ML/AI or full-stack development.
 
 ---
 
-### 🛠️ Skills & Technologies
+### 💼 Experience
 
-#### Core Tech Stack
+**Technical Head, ML-Ops** — Open Source Chandigarh *(2025 – Present)*
+- Instituted model deployment workflows covering versioning, reproducibility, and rollback.
+- Mentor contributors on ML deployment practices and experiment tracking.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" title="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask" title="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" title="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="Numpy" title="Numpy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" title="Pandas"/>
-  <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" width="40" alt="Seaborn" title="Seaborn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" alt="Matplotlib" title="Matplotlib"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="40" alt="Power BI" title="Power BI"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" alt="OpenCV" title="OpenCV"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Microsoft Azure" title="Microsoft Azure"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" width="40" alt="AWS" title="AWS"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40" alt="C" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" title="Linux"/>
-</p>
-
-#### Specialized Competencies
-
-- **Languages**: Python, C++, C, JavaScript, SQL
-- **Foundations**: Data Structures & Algorithms, System Design principles.
-- **Backend**: Node.js, Express, Django, Flask.
-- **Frontend**: React (Actively Learning), HTML5, CSS3, Bootstrap.
-- **Databases**: MongoDB, MySQL, PostgreSQL, SQLite.
-- **Data & AI/ML**: Pandas, NumPy, Matplotlib, Seaborn, Power BI, OpenCV, MediaPipe, Tesseract OCR, Ollama.
-- **Cloud & DevOps**: Microsoft Azure, AWS, Render, Git, Linux OS.
+**Web Development Intern, MERN Stack** — Immanent Solutions *(Jun 2025 – Jul 2025)*
+- Worked under the development lead across full-stack builds (MongoDB, Express, React, Node.js), learning how a client-facing web ecosystem is architected end to end.
+- Debugged internal-scope backend and frontend components under senior review.
 
 ---
 
-### 🔥 Impactful Projects
+### 🛠️ Tech Stack
 
-- 🏎️ **[FormulaFever](https://github.com/ishar06/FormulaFever)** – A dynamic web application leveraging AI/ML to predict F1 race outcomes and analyze driver performance.
-- 📖 **[MyDiary](https://github.com/ishar06/MyDiary)** – A safe, secure, and private Django-based application engineered for managing daily journals with focus on data integrity.
-- ✅ **[CheckInPlus](https://github.com/ishar06/CheckInPlus)** – An intuitive and reliable attendance and management system built to streamline tracking processes for organizations.
-- 🎮 **[PopShot](https://github.com/ishar06/PopShot)** – A real-time computer vision game utilizing advanced hand-tracking technology (OpenCV + MediaPipe).
-- 🛒 **[Sportify](https://github.com/ishar06/Sportify_EcommerceWebsite)** – A robust, full-stack e-commerce platform built with Flask, Django, SQLite & Bootstrap, demonstrating full transaction lifecycle management.
-- ❌⭕ **[Infinite TicTacToe](https://github.com/ishar06/TicTacToe)** – An engaging, web-based interactive game featuring dynamic scoring and a mobile-first design philosophy.
+**Languages** `Python` `Java` `C++` `Swift` `JavaScript` `SQL`
 
----
+**ML / AI** `Scikit-learn` `TensorFlow` `Keras` `OpenCV` `MediaPipe` `NLTK`
 
-### 📊 GitHub Stats & Trophies
+**Web & Backend** `Django` `Flask` `Node.js` `Express.js` `React`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishar06&show_icons=true&theme=radical&count_private=true" alt="ishar06's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishar06&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishar06&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishar06&theme=radical&column=7" alt="GitHub Trophies" />
-</p>
+**Data** `Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI`
+
+**Cloud & Tools** `AWS` `Microsoft Azure` `PostgreSQL` `MongoDB` `Git` `Render`
 
 ---
 
-### 🏅 Recognitions & Leadership
+### 🚀 Projects
 
-- **Hackathons**:
-    - **Build With India (Google)** – *Semi-Finalist (Top 5,000 / 25,000+ teams)*
-    - **Hack With Her 4.0 (IEEE)** – *Semi-Finalist (Top 30 / 700+ teams)*
-- **Certifications**:
-    - Microsoft Certified: Azure Fundamentals (AZ-900)
-    - Microsoft Certified: AI Fundamentals (AI-900)
-    - Microsoft Certified: Data Fundamentals (DP-900)
-- **Leadership & Mentorship**:
-    - Successfully led 10+ technical teams in architecting and delivering high-quality projects like **CheckInPlus**, **Sportify**, **FormEase**, and more, focusing on technical excellence and timely completion.
-
----
-
-### 🎸 Hobbies & Interests
-
-- 🎤 **Singing & Guitar**: I find balance and creativity through my passion for music, actively playing the guitar.
-- 🤝 **Community Service**: An active volunteer with the National Service Scheme (NSS), contributing time and skills to social causes.
-- 🤓 **Puzzles & Strategy**: My downtime is spent mastering the Rubik’s cube, competing in chess, or ideating on the next big tech innovation.
+| Project | What it does |
+|---|---|
+| **[Vajra](https://github.com/ishar06/FakeJobPostingDetector)** | Fraud-detection classifier on 17.8K job listings — SMOTE + threshold tuning to lift precision from ~51% to ~77% |
+| **[CheckInPlus](https://github.com/ishar06/CheckInPlus)** | Facial-recognition attendance system on Django + AWS Rekognition |
+| **[FormulaFever](https://github.com/ishar06/FormulaFever)** | F1 analytics dashboard — FastF1 data, a race-win predictor, and an LLM chatbot via Groq |
+| **[Sportify](https://github.com/ishar06/Sportify_EcommerceWebsite)** | E-commerce platform shipped in parallel Flask and Django implementations |
+| **[PopShot](https://github.com/ishar06/PopShot)** | Real-time, webcam-based gesture game using OpenCV + MediaPipe |
+| **[MyDiary](https://github.com/ishar06/MyDiary)** | Private journaling app on Django with rich-text editing and mood tagging |
 
 ---
 
-### 📫 Connect With Me
+### 🏅 Recognition
 
-- 📧 **Email**: [singhishardeep06@gmail.com](mailto:singhishardeep06@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/ishardeep-singh-743789311](https://www.linkedin.com/in/ishardeep-singh-743789311)
-- 💻 **GitHub**: [github.com/ishar06](https://github.com/ishar06)
-- 🧠 **LeetCode**: [leetcode.com/u/Ishardeep/](https://leetcode.com/u/Ishardeep/)
-- 📄 **Resume**: [Click here](https://flowcv.com/resume/011rqq99oidt)
-
----
-
-### 🙋‍♂️ Fun Fact
-When I’m not coding, you’ll find me solving Rubik’s cubes, playing chess, or ideating the next big innovation 🤓🚀
+- Semi-Finalist, **Build With India** (Google) — top 5,000 of 25,000+ teams
+- Semi-Finalist, **Hack With Her 4.0** (IEEE) — top 30 of 700+ teams
+- Finalist, **HackIndia 2025** — top 50 of 500 teams
+- Microsoft Certified: `AI-900` `AZ-900` `DP-900`
 
 ---
+### 🎯 Beyond Code
+
+Usually recharging with badminton or basketball, occasionally lost in a Rubik's Cube, and almost always have some anime queued up.
+
